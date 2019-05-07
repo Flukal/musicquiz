@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/musicquiz/static/js/main.1dc3bf3b.chunk.js",
+    "main.js.map": "/musicquiz/static/js/main.1dc3bf3b.chunk.js.map",
+    "runtime~main.js": "/musicquiz/static/js/runtime~main.95944bdf.js",
+    "runtime~main.js.map": "/musicquiz/static/js/runtime~main.95944bdf.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/musicquiz/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/musicquiz/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/musicquiz/index.html",
+    "precache-manifest.b2c4a6b3ee41a92ad14d95eb97d36c62.js": "/musicquiz/precache-manifest.b2c4a6b3ee41a92ad14d95eb97d36c62.js",
+    "service-worker.js": "/musicquiz/service-worker.js"
+  }
+}
